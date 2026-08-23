@@ -26,8 +26,10 @@ bool laSoDoiXung(int n) {
     return banDau == dao;
 }
 void nhapn(int& n) {
-	cout << "Nhap so luong phan tu: ";
-	cin >> n;
+    do {
+        cout << "Nhap so luong phan tu (n >= 10): ";
+        cin >> n;
+    } while (n < 10);
 }
 
 void inputArray(int* a, int& n) {
