@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HOME\\OneDrive\\Desktop\\hoc\\Ky_nang_lap_trinh\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4235294E-A28A-4ECB-A40B-410B9B65586B}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\HOME\\OneDrive\\Desktop\\hoc\\Ky_nang_lap_trinh\\ConsoleApplication1\\ConsoleApplication1\\De_1_cau_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4235294E-A28A-4ECB-A40B-410B9B65586B}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\De_1_cau_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4235294E-A28A-4ECB-A40B-410B9B65586B}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\HOME\\OneDrive\\Desktop\\hoc\\Ky_nang_lap_trinh\\ConsoleApplication1\\ConsoleApplication1\\De_1_cau_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4235294E-A28A-4ECB-A40B-410B9B65586B}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\De_1_cau_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4235294E-A28A-4ECB-A40B-410B9B65586B}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\HOME\\OneDrive\\Desktop\\hoc\\Ky_nang_lap_trinh\\ConsoleApplication1\\ConsoleApplication1\\De_1_cau_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4235294E-A28A-4ECB-A40B-410B9B65586B}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\De_1_cau_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4235294E-A28A-4ECB-A40B-410B9B65586B}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\HOME\\OneDrive\\Desktop\\hoc\\Ky_nang_lap_trinh\\ConsoleApplication1\\ConsoleApplication1\\De_2_cau_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4235294E-A28A-4ECB-A40B-410B9B65586B}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\De_2_cau_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4235294E-A28A-4ECB-A40B-410B9B65586B}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\HOME\\OneDrive\\Desktop\\hoc\\Ky_nang_lap_trinh\\ConsoleApplication1\\ConsoleApplication1\\De_2_cau_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4235294E-A28A-4ECB-A40B-410B9B65586B}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\De_2_cau_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4235294E-A28A-4ECB-A40B-410B9B65586B}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\HOME\\OneDrive\\Desktop\\hoc\\Ky_nang_lap_trinh\\ConsoleApplication1\\ConsoleApplication1\\De_2_cau_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4235294E-A28A-4ECB-A40B-410B9B65586B}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\De_2_cau_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "De_2_cau_3.cpp",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Desktop\\hoc\\Ky_nang_lap_trinh\\ConsoleApplication1\\ConsoleApplication1\\De_2_cau_3.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\De_2_cau_3.cpp",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Desktop\\hoc\\Ky_nang_lap_trinh\\ConsoleApplication1\\ConsoleApplication1\\De_2_cau_3.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\De_2_cau_3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-18T16:22:43.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "De_2_cau_2.cpp",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Desktop\\hoc\\Ky_nang_lap_trinh\\ConsoleApplication1\\ConsoleApplication1\\De_2_cau_2.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\De_2_cau_2.cpp",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Desktop\\hoc\\Ky_nang_lap_trinh\\ConsoleApplication1\\ConsoleApplication1\\De_2_cau_2.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\De_2_cau_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-18T16:13:09.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "De_1_cau_1.cpp",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Desktop\\hoc\\Ky_nang_lap_trinh\\ConsoleApplication1\\ConsoleApplication1\\De_1_cau_1.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\De_1_cau_1.cpp",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Desktop\\hoc\\Ky_nang_lap_trinh\\ConsoleApplication1\\ConsoleApplication1\\De_1_cau_1.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\De_1_cau_1.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-18T16:08:49.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "De_2_cau_1.cpp",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Desktop\\hoc\\Ky_nang_lap_trinh\\ConsoleApplication1\\ConsoleApplication1\\De_2_cau_1.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\De_2_cau_1.cpp",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Desktop\\hoc\\Ky_nang_lap_trinh\\ConsoleApplication1\\ConsoleApplication1\\De_2_cau_1.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\De_2_cau_1.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-18T16:08:16.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "De_1_cau_3.cpp",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Desktop\\hoc\\Ky_nang_lap_trinh\\ConsoleApplication1\\ConsoleApplication1\\De_1_cau_3.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\De_1_cau_3.cpp",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Desktop\\hoc\\Ky_nang_lap_trinh\\ConsoleApplication1\\ConsoleApplication1\\De_1_cau_3.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\De_1_cau_3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-17T07:54:13.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "De_1_cau_2.cpp",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Desktop\\hoc\\Ky_nang_lap_trinh\\ConsoleApplication1\\ConsoleApplication1\\De_1_cau_2.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\De_1_cau_2.cpp",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Desktop\\hoc\\Ky_nang_lap_trinh\\ConsoleApplication1\\ConsoleApplication1\\De_1_cau_2.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\De_1_cau_2.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-17T07:16:52.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
