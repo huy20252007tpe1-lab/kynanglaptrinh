@@ -8,6 +8,7 @@ void input(int& n, int& k) {
 	cout << "Nhap so k: ";
 	cin >> k;
 }
+
 void listCapSumK(int* a, int n, int k) {
 	for (int i = 0; i < n; i++) {
 		for (int j = i + 1; j < n; j++) {
@@ -17,6 +18,7 @@ void listCapSumK(int* a, int n, int k) {
 		}
 	}
 }
+
 void inputArray(int* a, int n) {
 	for (int i = 0; i < n; i++) {
 		cout << "Nhap phan tu thu " << i + 1 << ": ";
