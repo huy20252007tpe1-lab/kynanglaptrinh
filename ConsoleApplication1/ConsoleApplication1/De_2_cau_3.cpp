@@ -20,23 +20,25 @@ void listCapSumK(int* a, int n, int k) {
 }
 
 void inputArray(int* a, int n) {
+	int* p = a;
+
 	for (int i = 0; i < n; i++) {
 		cout << "Nhap phan tu thu " << i + 1 << ": ";
-		cin >> a[i];
+		cin >> *(p + i);
 	}
 }
 
-int uocChung(int a, int b) {
-	if (a < 0) a = -a;
-	if (b < 0) b = -b;
-	if (a == 0 && b == 0) return 0;
-	if (a == 0) return b;
-	if (b == 0) return a;
+int uocChung(int* a, int* b) {
+	if (*a < 0) *a = -*a;
+	if (*b < 0) *b = -*b;
+	if (*a == 0 && *b == 0) return 0;
+	if (*a == 0) return *b;
+	if (*b == 0) return *a;
 	int uoc = 1;
-	int nhoHon = (a < b) ? a : b;
+	int nhoHon = (*a < *b) ? *a : *b;
 
 	for (int i = 1; i <= nhoHon; i++) {
-		if (a % i == 0 && b % i == 0) {
+		if (*a % i == 0 && *b % i == 0) {
 			uoc = i;
 		}
 	}
@@ -47,7 +49,7 @@ int uocChung(int a, int b) {
 void listPairs(int* a, int n) {
 	for (int i = 0; i < n; i++) {
 		for (int j = i + 1; j < n; j++) {
-			if (uocChung(a[i], a[j]) == 1) {
+			if (uocChung(&a[i], &a[j]) == 1) {		
 				cout << "(" << a[i] << ", " << a[j] << ")" << endl;
 			}
 		}
